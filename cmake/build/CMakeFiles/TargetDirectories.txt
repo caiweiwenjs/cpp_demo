@@ -1,0 +1,10 @@
+/Users/edward.cai/codes/c++/cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/edward.cai/codes/c++/cmake/build/CMakeFiles/edit_cache.dir
+/Users/edward.cai/codes/c++/cmake/build/sublibrary1/CMakeFiles/rebuild_cache.dir
+/Users/edward.cai/codes/c++/cmake/build/sublibrary1/CMakeFiles/edit_cache.dir
+/Users/edward.cai/codes/c++/cmake/build/sublibrary1/CMakeFiles/sublibrary1.dir
+/Users/edward.cai/codes/c++/cmake/build/sublibrary2/CMakeFiles/rebuild_cache.dir
+/Users/edward.cai/codes/c++/cmake/build/sublibrary2/CMakeFiles/edit_cache.dir
+/Users/edward.cai/codes/c++/cmake/build/subbinary/CMakeFiles/rebuild_cache.dir
+/Users/edward.cai/codes/c++/cmake/build/subbinary/CMakeFiles/edit_cache.dir
+/Users/edward.cai/codes/c++/cmake/build/subbinary/CMakeFiles/subbinary.dir
